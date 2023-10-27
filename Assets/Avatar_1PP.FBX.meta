@@ -1,0 +1,3111 @@
+fileFormatVersion: 2
+guid: 1ce231629970f274983076a961613666
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Aperture
+    100002: Aperture+15
+    100004: Aperture+30
+    100006: Aperture+45
+    100008: //RootNode
+    100010: avatarMesh
+    100012: ball_l
+    100014: ball_r
+    100016: Box001
+    100018: Box002
+    100020: Box003
+    100022: Box004
+    100024: calf_l
+    100026: calf_r
+    100028: Camera001
+    100030: Character_Ctrl:ChestEndEffector
+    100032: Character_Ctrl:ChestOriginEffector
+    100034: Character_Ctrl:Head
+    100036: Character_Ctrl:HeadEffector
+    100038: Character_Ctrl:Hips
+    100040: Character_Ctrl:HipsEffector
+    100042: Character_Ctrl:LeftAnkleEffector
+    100044: Character_Ctrl:LeftArm
+    100046: Character_Ctrl:LeftElbowEffector
+    100048: Character_Ctrl:LeftFoot
+    100050: Character_Ctrl:LeftForeArm
+    100052: Character_Ctrl:LeftHand
+    100054: Character_Ctrl:LeftHandIndex1
+    100056: Character_Ctrl:LeftHandIndex2
+    100058: Character_Ctrl:LeftHandIndex3
+    100060: Character_Ctrl:LeftHandIndexEffector
+    100062: Character_Ctrl:LeftHandMiddle1
+    100064: Character_Ctrl:LeftHandMiddle2
+    100066: Character_Ctrl:LeftHandMiddle3
+    100068: Character_Ctrl:LeftHandMiddleEffector
+    100070: Character_Ctrl:LeftHandPinky1
+    100072: Character_Ctrl:LeftHandPinky2
+    100074: Character_Ctrl:LeftHandPinky3
+    100076: Character_Ctrl:LeftHandPinkyEffector
+    100078: Character_Ctrl:LeftHandRing1
+    100080: Character_Ctrl:LeftHandRing2
+    100082: Character_Ctrl:LeftHandRing3
+    100084: Character_Ctrl:LeftHandRingEffector
+    100086: Character_Ctrl:LeftHandThumb1
+    100088: Character_Ctrl:LeftHandThumb2
+    100090: Character_Ctrl:LeftHandThumb3
+    100092: Character_Ctrl:LeftHandThumbEffector
+    100094: Character_Ctrl:LeftHipEffector
+    100096: Character_Ctrl:LeftKneeEffector
+    100098: Character_Ctrl:LeftLeg
+    100100: Character_Ctrl:LeftShoulder
+    100102: Character_Ctrl:LeftShoulderEffector
+    100104: Character_Ctrl:LeftUpLeg
+    100106: Character_Ctrl:LeftWristEffector
+    100108: Character_Ctrl:Neck
+    100110: Character_Ctrl:Reference
+    100112: Character_Ctrl:RightAnkleEffector
+    100114: Character_Ctrl:RightArm
+    100116: Character_Ctrl:RightElbowEffector
+    100118: Character_Ctrl:RightFoot
+    100120: Character_Ctrl:RightForeArm
+    100122: Character_Ctrl:RightHand
+    100124: Character_Ctrl:RightHandIndex1
+    100126: Character_Ctrl:RightHandIndex2
+    100128: Character_Ctrl:RightHandIndex3
+    100130: Character_Ctrl:RightHandIndexEffector
+    100132: Character_Ctrl:RightHandMiddle1
+    100134: Character_Ctrl:RightHandMiddle2
+    100136: Character_Ctrl:RightHandMiddle3
+    100138: Character_Ctrl:RightHandMiddleEffector
+    100140: Character_Ctrl:RightHandPinky1
+    100142: Character_Ctrl:RightHandPinky2
+    100144: Character_Ctrl:RightHandPinky3
+    100146: Character_Ctrl:RightHandPinkyEffector
+    100148: Character_Ctrl:RightHandRing1
+    100150: Character_Ctrl:RightHandRing2
+    100152: Character_Ctrl:RightHandRing3
+    100154: Character_Ctrl:RightHandRingEffector
+    100156: Character_Ctrl:RightHandThumb1
+    100158: Character_Ctrl:RightHandThumb2
+    100160: Character_Ctrl:RightHandThumb3
+    100162: Character_Ctrl:RightHandThumbEffector
+    100164: Character_Ctrl:RightHipEffector
+    100166: Character_Ctrl:RightKneeEffector
+    100168: Character_Ctrl:RightLeg
+    100170: Character_Ctrl:RightShoulder
+    100172: Character_Ctrl:RightShoulderEffector
+    100174: Character_Ctrl:RightUpLeg
+    100176: Character_Ctrl:RightWristEffector
+    100178: Character_Ctrl:Spine
+    100180: Character_Ctrl:Spine1
+    100182: Character_Ctrl:Spine2
+    100184: clavicle_l
+    100186: clavicle_r
+    100188: eyebrow008Mesh
+    100190: foot_l
+    100192: foot_r
+    100194: Fspot001
+    100196: Game_engine
+    100198: Grip_Ap+15%
+    100200: Grip_Ap+15% 1
+    100202: Grip_Ap+15%001
+    100204: Grip_Ap+15%002
+    100206: Grip_Ap+30%
+    100208: Grip_Ap+30% 1
+    100210: Grip_Ap+30%001
+    100212: Grip_Ap+30%002
+    100214: Grip_Ap+45%
+    100216: Grip_Ap+45% 1
+    100218: Grip_Ap+45%001
+    100220: Grip_Ap+45%002
+    100222: Grip_Ap-15%
+    100224: Grip_Ap-15% 1
+    100226: Grip_Ap-15% 2
+    100228: Grip_Ap-15%002
+    100230: Grip_Ap-15%003
+    100232: Grip_Ap-30%
+    100234: Grip_Ap-30% 1
+    100236: Grip_Ap-30% 2
+    100238: Grip_Ap-30%002
+    100240: Grip_Ap-30%003
+    100242: Grip_Ap-45%
+    100244: Grip_Ap-45% 1
+    100246: Grip_Ap-45% 2
+    100248: Grip_Ap-45%002
+    100250: Grip_Ap-45%003
+    100252: Grip_Ap_0
+    100254: Grip_Ap_0 1
+    100256: Grip_Ap_0 2
+    100258: Grip_Ap_0 3
+    100260: Grip_Ap_0 4
+    100262: Grip_Ap_001
+    100264: Grip_Ap_002
+    100266: Grip_Ap_004
+    100268: Grip_Ap_005
+    100270: hand_l
+    100272: hand_r
+    100274: head
+    100276: Height
+    100278: Height-15
+    100280: Height-30
+    100282: Height-45
+    100284: high-polyMesh
+    100286: index_01_l
+    100288: index_01_r
+    100290: index_02_l
+    100292: index_02_r
+    100294: index_03_l
+    100296: index_03_r
+    100298: lowerarm_l
+    100300: lowerarm_r
+    100302: male_casualsuit06Mesh
+    100304: middle_01_l
+    100306: middle_01_r
+    100308: middle_02_l
+    100310: middle_02_r
+    100312: middle_03_l
+    100314: middle_03_r
+    100316: neck_01
+    100318: Omni001
+    100320: pelvis
+    100322: pinky_01_l
+    100324: pinky_01_r
+    100326: pinky_02_l
+    100328: pinky_02_r
+    100330: pinky_03_l
+    100332: pinky_03_r
+    100334: ring_01_l
+    100336: ring_01_r
+    100338: ring_02_l
+    100340: ring_02_r
+    100342: ring_03_l
+    100344: ring_03_r
+    100346: Root
+    100348: shoes01Mesh
+    100350: short02Mesh
+    100352: spine_01
+    100354: spine_02
+    100356: spine_03
+    100358: tavolo_table
+    100360: thigh_l
+    100362: thigh_r
+    100364: thumb_01_l
+    100366: thumb_01_r
+    100368: thumb_02_l
+    100370: thumb_02_r
+    100372: thumb_03_l
+    100374: thumb_03_r
+    100376: upperarm_l
+    100378: upperarm_r
+    100380: Wrist_Hg
+    100382: Wrist_Hg 1
+    100384: Wrist_Hg 2
+    100386: Wrist_Hg+15
+    100388: Wrist_Hg+15%
+    100390: Wrist_Hg+15% 1
+    100392: Wrist_Hg+15% 2
+    100394: Wrist_Hg+15%001
+    100396: Wrist_Hg+30
+    100398: Wrist_Hg+30%
+    100400: Wrist_Hg+30% 1
+    100402: Wrist_Hg+30% 2
+    100404: Wrist_Hg+30%001
+    100406: Wrist_Hg+45
+    100408: Wrist_Hg+45%
+    100410: Wrist_Hg+45% 1
+    100412: Wrist_Hg+45% 2
+    100414: Wrist_Hg+45%001
+    100416: Wrist_Hg-15%
+    100418: Wrist_Hg-15% 1
+    100420: Wrist_Hg-15%001
+    100422: Wrist_Hg-15%002
+    100424: Wrist_Hg-30%
+    100426: Wrist_Hg-30% 1
+    100428: Wrist_Hg-30%001
+    100430: Wrist_Hg-30%002
+    100432: Wrist_Hg-45%
+    100434: Wrist_Hg-45% 1
+    100436: Wrist_Hg-45%001
+    100438: Wrist_Hg-45%002
+    100440: Wrist_Hg001
+    100442: Wrist_Hg_0
+    100444: Wrist_Hg_0 1
+    100446: Wrist_Hg_0 2
+    100448: Wrist_Hg_001
+    100450: Wrist_Hg_002
+    400000: Aperture
+    400002: Aperture+15
+    400004: Aperture+30
+    400006: Aperture+45
+    400008: //RootNode
+    400010: avatarMesh
+    400012: ball_l
+    400014: ball_r
+    400016: Box001
+    400018: Box002
+    400020: Box003
+    400022: Box004
+    400024: calf_l
+    400026: calf_r
+    400028: Camera001
+    400030: Character_Ctrl:ChestEndEffector
+    400032: Character_Ctrl:ChestOriginEffector
+    400034: Character_Ctrl:Head
+    400036: Character_Ctrl:HeadEffector
+    400038: Character_Ctrl:Hips
+    400040: Character_Ctrl:HipsEffector
+    400042: Character_Ctrl:LeftAnkleEffector
+    400044: Character_Ctrl:LeftArm
+    400046: Character_Ctrl:LeftElbowEffector
+    400048: Character_Ctrl:LeftFoot
+    400050: Character_Ctrl:LeftForeArm
+    400052: Character_Ctrl:LeftHand
+    400054: Character_Ctrl:LeftHandIndex1
+    400056: Character_Ctrl:LeftHandIndex2
+    400058: Character_Ctrl:LeftHandIndex3
+    400060: Character_Ctrl:LeftHandIndexEffector
+    400062: Character_Ctrl:LeftHandMiddle1
+    400064: Character_Ctrl:LeftHandMiddle2
+    400066: Character_Ctrl:LeftHandMiddle3
+    400068: Character_Ctrl:LeftHandMiddleEffector
+    400070: Character_Ctrl:LeftHandPinky1
+    400072: Character_Ctrl:LeftHandPinky2
+    400074: Character_Ctrl:LeftHandPinky3
+    400076: Character_Ctrl:LeftHandPinkyEffector
+    400078: Character_Ctrl:LeftHandRing1
+    400080: Character_Ctrl:LeftHandRing2
+    400082: Character_Ctrl:LeftHandRing3
+    400084: Character_Ctrl:LeftHandRingEffector
+    400086: Character_Ctrl:LeftHandThumb1
+    400088: Character_Ctrl:LeftHandThumb2
+    400090: Character_Ctrl:LeftHandThumb3
+    400092: Character_Ctrl:LeftHandThumbEffector
+    400094: Character_Ctrl:LeftHipEffector
+    400096: Character_Ctrl:LeftKneeEffector
+    400098: Character_Ctrl:LeftLeg
+    400100: Character_Ctrl:LeftShoulder
+    400102: Character_Ctrl:LeftShoulderEffector
+    400104: Character_Ctrl:LeftUpLeg
+    400106: Character_Ctrl:LeftWristEffector
+    400108: Character_Ctrl:Neck
+    400110: Character_Ctrl:Reference
+    400112: Character_Ctrl:RightAnkleEffector
+    400114: Character_Ctrl:RightArm
+    400116: Character_Ctrl:RightElbowEffector
+    400118: Character_Ctrl:RightFoot
+    400120: Character_Ctrl:RightForeArm
+    400122: Character_Ctrl:RightHand
+    400124: Character_Ctrl:RightHandIndex1
+    400126: Character_Ctrl:RightHandIndex2
+    400128: Character_Ctrl:RightHandIndex3
+    400130: Character_Ctrl:RightHandIndexEffector
+    400132: Character_Ctrl:RightHandMiddle1
+    400134: Character_Ctrl:RightHandMiddle2
+    400136: Character_Ctrl:RightHandMiddle3
+    400138: Character_Ctrl:RightHandMiddleEffector
+    400140: Character_Ctrl:RightHandPinky1
+    400142: Character_Ctrl:RightHandPinky2
+    400144: Character_Ctrl:RightHandPinky3
+    400146: Character_Ctrl:RightHandPinkyEffector
+    400148: Character_Ctrl:RightHandRing1
+    400150: Character_Ctrl:RightHandRing2
+    400152: Character_Ctrl:RightHandRing3
+    400154: Character_Ctrl:RightHandRingEffector
+    400156: Character_Ctrl:RightHandThumb1
+    400158: Character_Ctrl:RightHandThumb2
+    400160: Character_Ctrl:RightHandThumb3
+    400162: Character_Ctrl:RightHandThumbEffector
+    400164: Character_Ctrl:RightHipEffector
+    400166: Character_Ctrl:RightKneeEffector
+    400168: Character_Ctrl:RightLeg
+    400170: Character_Ctrl:RightShoulder
+    400172: Character_Ctrl:RightShoulderEffector
+    400174: Character_Ctrl:RightUpLeg
+    400176: Character_Ctrl:RightWristEffector
+    400178: Character_Ctrl:Spine
+    400180: Character_Ctrl:Spine1
+    400182: Character_Ctrl:Spine2
+    400184: clavicle_l
+    400186: clavicle_r
+    400188: eyebrow008Mesh
+    400190: foot_l
+    400192: foot_r
+    400194: Fspot001
+    400196: Game_engine
+    400198: Grip_Ap+15%
+    400200: Grip_Ap+15% 1
+    400202: Grip_Ap+15%001
+    400204: Grip_Ap+15%002
+    400206: Grip_Ap+30%
+    400208: Grip_Ap+30% 1
+    400210: Grip_Ap+30%001
+    400212: Grip_Ap+30%002
+    400214: Grip_Ap+45%
+    400216: Grip_Ap+45% 1
+    400218: Grip_Ap+45%001
+    400220: Grip_Ap+45%002
+    400222: Grip_Ap-15%
+    400224: Grip_Ap-15% 1
+    400226: Grip_Ap-15% 2
+    400228: Grip_Ap-15%002
+    400230: Grip_Ap-15%003
+    400232: Grip_Ap-30%
+    400234: Grip_Ap-30% 1
+    400236: Grip_Ap-30% 2
+    400238: Grip_Ap-30%002
+    400240: Grip_Ap-30%003
+    400242: Grip_Ap-45%
+    400244: Grip_Ap-45% 1
+    400246: Grip_Ap-45% 2
+    400248: Grip_Ap-45%002
+    400250: Grip_Ap-45%003
+    400252: Grip_Ap_0
+    400254: Grip_Ap_0 1
+    400256: Grip_Ap_0 2
+    400258: Grip_Ap_0 3
+    400260: Grip_Ap_0 4
+    400262: Grip_Ap_001
+    400264: Grip_Ap_002
+    400266: Grip_Ap_004
+    400268: Grip_Ap_005
+    400270: hand_l
+    400272: hand_r
+    400274: head
+    400276: Height
+    400278: Height-15
+    400280: Height-30
+    400282: Height-45
+    400284: high-polyMesh
+    400286: index_01_l
+    400288: index_01_r
+    400290: index_02_l
+    400292: index_02_r
+    400294: index_03_l
+    400296: index_03_r
+    400298: lowerarm_l
+    400300: lowerarm_r
+    400302: male_casualsuit06Mesh
+    400304: middle_01_l
+    400306: middle_01_r
+    400308: middle_02_l
+    400310: middle_02_r
+    400312: middle_03_l
+    400314: middle_03_r
+    400316: neck_01
+    400318: Omni001
+    400320: pelvis
+    400322: pinky_01_l
+    400324: pinky_01_r
+    400326: pinky_02_l
+    400328: pinky_02_r
+    400330: pinky_03_l
+    400332: pinky_03_r
+    400334: ring_01_l
+    400336: ring_01_r
+    400338: ring_02_l
+    400340: ring_02_r
+    400342: ring_03_l
+    400344: ring_03_r
+    400346: Root
+    400348: shoes01Mesh
+    400350: short02Mesh
+    400352: spine_01
+    400354: spine_02
+    400356: spine_03
+    400358: tavolo_table
+    400360: thigh_l
+    400362: thigh_r
+    400364: thumb_01_l
+    400366: thumb_01_r
+    400368: thumb_02_l
+    400370: thumb_02_r
+    400372: thumb_03_l
+    400374: thumb_03_r
+    400376: upperarm_l
+    400378: upperarm_r
+    400380: Wrist_Hg
+    400382: Wrist_Hg 1
+    400384: Wrist_Hg 2
+    400386: Wrist_Hg+15
+    400388: Wrist_Hg+15%
+    400390: Wrist_Hg+15% 1
+    400392: Wrist_Hg+15% 2
+    400394: Wrist_Hg+15%001
+    400396: Wrist_Hg+30
+    400398: Wrist_Hg+30%
+    400400: Wrist_Hg+30% 1
+    400402: Wrist_Hg+30% 2
+    400404: Wrist_Hg+30%001
+    400406: Wrist_Hg+45
+    400408: Wrist_Hg+45%
+    400410: Wrist_Hg+45% 1
+    400412: Wrist_Hg+45% 2
+    400414: Wrist_Hg+45%001
+    400416: Wrist_Hg-15%
+    400418: Wrist_Hg-15% 1
+    400420: Wrist_Hg-15%001
+    400422: Wrist_Hg-15%002
+    400424: Wrist_Hg-30%
+    400426: Wrist_Hg-30% 1
+    400428: Wrist_Hg-30%001
+    400430: Wrist_Hg-30%002
+    400432: Wrist_Hg-45%
+    400434: Wrist_Hg-45% 1
+    400436: Wrist_Hg-45%001
+    400438: Wrist_Hg-45%002
+    400440: Wrist_Hg001
+    400442: Wrist_Hg_0
+    400444: Wrist_Hg_0 1
+    400446: Wrist_Hg_0 2
+    400448: Wrist_Hg_001
+    400450: Wrist_Hg_002
+    2100000: avatar
+    2100002: short02
+    2100004: high-poly
+    2100006: eyebrow008
+    2100008: 'Material #35'
+    2100010: shoes01
+    2100012: 'Material #33'
+    2100014: 'Material #32'
+    2100016: No Name
+    2300000: Aperture
+    2300002: Aperture+15
+    2300004: Aperture+30
+    2300006: Aperture+45
+    2300008: Box001
+    2300010: Box002
+    2300012: Box003
+    2300014: Box004
+    2300016: Grip_Ap+15%
+    2300018: Grip_Ap+15% 1
+    2300020: Grip_Ap+15%001
+    2300022: Grip_Ap+15%002
+    2300024: Grip_Ap+30%
+    2300026: Grip_Ap+30% 1
+    2300028: Grip_Ap+30%001
+    2300030: Grip_Ap+30%002
+    2300032: Grip_Ap+45%
+    2300034: Grip_Ap+45% 1
+    2300036: Grip_Ap+45%001
+    2300038: Grip_Ap+45%002
+    2300040: Grip_Ap-15%
+    2300042: Grip_Ap-15% 1
+    2300044: Grip_Ap-15% 2
+    2300046: Grip_Ap-15%002
+    2300048: Grip_Ap-15%003
+    2300050: Grip_Ap-30%
+    2300052: Grip_Ap-30% 1
+    2300054: Grip_Ap-30% 2
+    2300056: Grip_Ap-30%002
+    2300058: Grip_Ap-30%003
+    2300060: Grip_Ap-45%
+    2300062: Grip_Ap-45% 1
+    2300064: Grip_Ap-45% 2
+    2300066: Grip_Ap-45%002
+    2300068: Grip_Ap-45%003
+    2300070: Grip_Ap_0
+    2300072: Grip_Ap_0 1
+    2300074: Grip_Ap_0 2
+    2300076: Grip_Ap_0 3
+    2300078: Grip_Ap_0 4
+    2300080: Grip_Ap_001
+    2300082: Grip_Ap_002
+    2300084: Grip_Ap_004
+    2300086: Grip_Ap_005
+    2300088: Height
+    2300090: Height-15
+    2300092: Height-30
+    2300094: Height-45
+    2300096: tavolo_table
+    2300098: Wrist_Hg
+    2300100: Wrist_Hg 1
+    2300102: Wrist_Hg 2
+    2300104: Wrist_Hg+15
+    2300106: Wrist_Hg+15%
+    2300108: Wrist_Hg+15% 1
+    2300110: Wrist_Hg+15% 2
+    2300112: Wrist_Hg+15%001
+    2300114: Wrist_Hg+30
+    2300116: Wrist_Hg+30%
+    2300118: Wrist_Hg+30% 1
+    2300120: Wrist_Hg+30% 2
+    2300122: Wrist_Hg+30%001
+    2300124: Wrist_Hg+45
+    2300126: Wrist_Hg+45%
+    2300128: Wrist_Hg+45% 1
+    2300130: Wrist_Hg+45% 2
+    2300132: Wrist_Hg+45%001
+    2300134: Wrist_Hg-15%
+    2300136: Wrist_Hg-15% 1
+    2300138: Wrist_Hg-15%001
+    2300140: Wrist_Hg-15%002
+    2300142: Wrist_Hg-30%
+    2300144: Wrist_Hg-30% 1
+    2300146: Wrist_Hg-30%001
+    2300148: Wrist_Hg-30%002
+    2300150: Wrist_Hg-45%
+    2300152: Wrist_Hg-45% 1
+    2300154: Wrist_Hg-45%001
+    2300156: Wrist_Hg-45%002
+    2300158: Wrist_Hg001
+    2300160: Wrist_Hg_0
+    2300162: Wrist_Hg_0 1
+    2300164: Wrist_Hg_0 2
+    2300166: Wrist_Hg_001
+    2300168: Wrist_Hg_002
+    3300000: Aperture
+    3300002: Aperture+15
+    3300004: Aperture+30
+    3300006: Aperture+45
+    3300008: Box001
+    3300010: Box002
+    3300012: Box003
+    3300014: Box004
+    3300016: Grip_Ap+15%
+    3300018: Grip_Ap+15% 1
+    3300020: Grip_Ap+15%001
+    3300022: Grip_Ap+15%002
+    3300024: Grip_Ap+30%
+    3300026: Grip_Ap+30% 1
+    3300028: Grip_Ap+30%001
+    3300030: Grip_Ap+30%002
+    3300032: Grip_Ap+45%
+    3300034: Grip_Ap+45% 1
+    3300036: Grip_Ap+45%001
+    3300038: Grip_Ap+45%002
+    3300040: Grip_Ap-15%
+    3300042: Grip_Ap-15% 1
+    3300044: Grip_Ap-15% 2
+    3300046: Grip_Ap-15%002
+    3300048: Grip_Ap-15%003
+    3300050: Grip_Ap-30%
+    3300052: Grip_Ap-30% 1
+    3300054: Grip_Ap-30% 2
+    3300056: Grip_Ap-30%002
+    3300058: Grip_Ap-30%003
+    3300060: Grip_Ap-45%
+    3300062: Grip_Ap-45% 1
+    3300064: Grip_Ap-45% 2
+    3300066: Grip_Ap-45%002
+    3300068: Grip_Ap-45%003
+    3300070: Grip_Ap_0
+    3300072: Grip_Ap_0 1
+    3300074: Grip_Ap_0 2
+    3300076: Grip_Ap_0 3
+    3300078: Grip_Ap_0 4
+    3300080: Grip_Ap_001
+    3300082: Grip_Ap_002
+    3300084: Grip_Ap_004
+    3300086: Grip_Ap_005
+    3300088: Height
+    3300090: Height-15
+    3300092: Height-30
+    3300094: Height-45
+    3300096: tavolo_table
+    3300098: Wrist_Hg
+    3300100: Wrist_Hg 1
+    3300102: Wrist_Hg 2
+    3300104: Wrist_Hg+15
+    3300106: Wrist_Hg+15%
+    3300108: Wrist_Hg+15% 1
+    3300110: Wrist_Hg+15% 2
+    3300112: Wrist_Hg+15%001
+    3300114: Wrist_Hg+30
+    3300116: Wrist_Hg+30%
+    3300118: Wrist_Hg+30% 1
+    3300120: Wrist_Hg+30% 2
+    3300122: Wrist_Hg+30%001
+    3300124: Wrist_Hg+45
+    3300126: Wrist_Hg+45%
+    3300128: Wrist_Hg+45% 1
+    3300130: Wrist_Hg+45% 2
+    3300132: Wrist_Hg+45%001
+    3300134: Wrist_Hg-15%
+    3300136: Wrist_Hg-15% 1
+    3300138: Wrist_Hg-15%001
+    3300140: Wrist_Hg-15%002
+    3300142: Wrist_Hg-30%
+    3300144: Wrist_Hg-30% 1
+    3300146: Wrist_Hg-30%001
+    3300148: Wrist_Hg-30%002
+    3300150: Wrist_Hg-45%
+    3300152: Wrist_Hg-45% 1
+    3300154: Wrist_Hg-45%001
+    3300156: Wrist_Hg-45%002
+    3300158: Wrist_Hg001
+    3300160: Wrist_Hg_0
+    3300162: Wrist_Hg_0 1
+    3300164: Wrist_Hg_0 2
+    3300166: Wrist_Hg_001
+    3300168: Wrist_Hg_002
+    4300000: avatarMesh
+    4300002: short02Mesh
+    4300004: high-polyMesh
+    4300006: eyebrow008Mesh
+    4300008: male_casualsuit06Mesh
+    4300010: shoes01Mesh
+    4300012: tavolo_table
+    4300014: Box001
+    4300016: Box002
+    4300018: Box003
+    4300020: Box004
+    4300022: Aperture
+    4300024: Height
+    4300026: Height-15
+    4300028: Height-30
+    4300030: Aperture+15
+    4300032: Aperture+30
+    4300034: Grip_Ap_0
+    4300036: Grip_Ap+15%
+    4300038: Grip_Ap+30%
+    4300040: Grip_Ap+45%
+    4300042: Wrist_Hg_0
+    4300044: Wrist_Hg-15%
+    4300046: Wrist_Hg-30%
+    4300048: Wrist_Hg-45%
+    4300050: Grip_Ap_0
+    4300052: Wrist_Hg_0
+    4300054: Grip_Ap+15%
+    4300056: Grip_Ap+30%
+    4300058: Grip_Ap+45%
+    4300060: Wrist_Hg-15%
+    4300062: Wrist_Hg-30%
+    4300064: Wrist_Hg-45%
+    4300066: Grip_Ap_001
+    4300068: Grip_Ap+15%001
+    4300070: Grip_Ap+30%001
+    4300072: Grip_Ap+45%001
+    4300074: Wrist_Hg_001
+    4300076: Wrist_Hg-15%001
+    4300078: Wrist_Hg-30%001
+    4300080: Wrist_Hg-45%001
+    4300082: Grip_Ap_002
+    4300084: Grip_Ap+15%002
+    4300086: Grip_Ap+30%002
+    4300088: Grip_Ap+45%002
+    4300090: Wrist_Hg_002
+    4300092: Wrist_Hg-15%002
+    4300094: Wrist_Hg-30%002
+    4300096: Wrist_Hg-45%002
+    4300098: Aperture+45
+    4300100: Grip_Ap_0
+    4300102: Wrist_Hg_0
+    4300104: Grip_Ap-15%
+    4300106: Grip_Ap-30%
+    4300108: Grip_Ap-45%
+    4300110: Grip_Ap_0
+    4300112: Grip_Ap-15%
+    4300114: Grip_Ap-30%
+    4300116: Grip_Ap-45%
+    4300118: Wrist_Hg
+    4300120: Grip_Ap_0
+    4300122: Grip_Ap-15%
+    4300124: Grip_Ap-30%
+    4300126: Grip_Ap-45%
+    4300128: Wrist_Hg
+    4300130: Grip_Ap_004
+    4300132: Grip_Ap-15%002
+    4300134: Grip_Ap-30%002
+    4300136: Grip_Ap-45%002
+    4300138: Wrist_Hg
+    4300140: Grip_Ap_005
+    4300142: Grip_Ap-15%003
+    4300144: Grip_Ap-30%003
+    4300146: Grip_Ap-45%003
+    4300148: Height-45
+    4300150: Wrist_Hg+15
+    4300152: Wrist_Hg+30
+    4300154: Wrist_Hg+45
+    4300156: Wrist_Hg+15%
+    4300158: Wrist_Hg+30%
+    4300160: Wrist_Hg+45%
+    4300162: Wrist_Hg+15%
+    4300164: Wrist_Hg+30%
+    4300166: Wrist_Hg+45%
+    4300168: Wrist_Hg+15%
+    4300170: Wrist_Hg+30%
+    4300172: Wrist_Hg+45%
+    4300174: Wrist_Hg001
+    4300176: Wrist_Hg+15%001
+    4300178: Wrist_Hg+30%001
+    4300180: Wrist_Hg+45%001
+    7400000: Idle
+    7400002: Power_1
+    7400004: Power_1_grip_15
+    7400006: Power_1_grip_30
+    7400008: Power_1_grip_45
+    7400010: Power_1_Wrist_15
+    7400012: Power_1_Wrist_30
+    7400014: Power_1_Wrist_45
+    7400016: Precision_1
+    7400018: Precision_1_grip_15
+    7400020: Precision_1_grip_30
+    7400022: Precision_1_grip_45
+    7400024: Precision_1_Wrist_15
+    7400026: Precision_1_Wrist_30
+    7400028: Precision_1_Wrist_45
+    7400030: Power_2
+    7400032: Power_2_grip_15
+    7400034: Power_2_grip_30
+    7400036: Power_2_grip_45
+    7400038: Power_2_Wrist_15
+    7400040: Power_2_Wrist_30
+    7400042: Power_2_Wrist_40
+    7400044: Precision_2_grip_15
+    7400046: Precision_2_grip_30
+    7400048: Precision_2_grip_45
+    7400050: Precision_2_Wrist_15
+    7400052: Precision_2_Wrist_30
+    7400054: Precision_2_Wrist_45
+    7400056: Precision_2
+    7400058: Precision_Corr_1
+    7400060: Power_Corr_1
+    7400062: Power_Corr_2
+    7400064: Power_Corr_3
+    7400066: Power_Corr_4
+    7400068: Power_Corr_5
+    7400070: Precision_Corr_2
+    7400072: Precision_Corr_3
+    7400074: Precision_Corr_4
+    7400076: Precision_Corr_5
+    7400078: Start
+    7400080: Power_3
+    7400082: Power_3_grip_15
+    7400084: Power_3_grip_30
+    7400086: Power_3_grip_45
+    7400088: Power_3_Wrist_15
+    7400090: Power_3_Wrist_30
+    7400092: Power_3_Wrist_45
+    7400094: Power_4
+    7400096: Power_4_grip_15
+    7400098: Power_4_grip_30
+    7400100: Power_4_grip_45
+    7400102: Power_4_Wrist_15
+    7400104: Power_4_Wrist_30
+    7400106: Power_4_Wrist_45
+    7400108: Power_5
+    7400110: Power_5_grip_15
+    7400112: Power_5_grip_30
+    7400114: Power_5_grip_45
+    7400116: Power_5_Wrist_15
+    7400118: Power_5_Wrist_30
+    7400120: Power_5_Wrist_45
+    7400122: Precision_3
+    7400124: Precision_3_grip_15
+    7400126: Precision_3_grip_30
+    7400128: Precision_3_grip_45
+    7400130: Precision_3_Wrist_15
+    7400132: Precision_3_Wrist_30
+    7400134: Precision_3_Wrist_45
+    7400136: Precision_4
+    7400138: Precision_4_grip_15
+    7400140: Precision_4_grip_30
+    7400142: Precision_4_grip_45
+    7400144: Precision_4_Wrist_15
+    7400146: Precision_4_Wrist_30
+    7400148: Precision_4_Wrist_45
+    7400150: Precision_5
+    7400152: Precision_5_grip_15
+    7400154: Precision_5_grip_30
+    7400156: Precision_5_grip_45
+    9500000: //RootNode
+    13700000: avatarMesh
+    13700002: eyebrow008Mesh
+    13700004: high-polyMesh
+    13700006: male_casualsuit06Mesh
+    13700008: shoes01Mesh
+    13700010: short02Mesh
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 11000
+      lastFrame: 11001
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Power_1
+      takeName: Take 001
+      firstFrame: 11000
+      lastFrame: 11082
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Power_1_grip_15
+      takeName: Take 001
+      firstFrame: 11100
+      lastFrame: 11182
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Power_1_grip_30
+      takeName: Take 001
+      firstFrame: 11200
+      lastFrame: 11282
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Power_1_grip_45
+      takeName: Take 001
+      firstFrame: 11300
+      lastFrame: 11382
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Power_1_Wrist_15
+      takeName: Take 001
+      firstFrame: 11500
+      lastFrame: 11582
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Power_1_Wrist_30
+      takeName: Take 001
+      firstFrame: 11600
+      lastFrame: 11682
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Power_1_Wrist_45
+      takeName: Take 001
+      firstFrame: 11700
+      lastFrame: 11782
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Precision_1
+      takeName: Take 001
+      firstFrame: 15000
+      lastFrame: 15083
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Precision_1_grip_15
+      takeName: Take 001
+      firstFrame: 15100
+      lastFrame: 15183
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Precision_1_grip_30
+      takeName: Take 001
+      firstFrame: 15200
+      lastFrame: 15283
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Precision_1_grip_45
+      takeName: Take 001
+      firstFrame: 15300
+      lastFrame: 15383
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Precision_1_Wrist_15
+      takeName: Take 001
+      firstFrame: 15500.001
+      lastFrame: 15583
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Precision_1_Wrist_30
+      takeName: Take 001
+      firstFrame: 15600
+      lastFrame: 15683
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Precision_1_Wrist_45
+      takeName: Take 001
+      firstFrame: 15699.999
+      lastFrame: 15782.999
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Power_2
+      takeName: Take 001
+      firstFrame: 20000
+      lastFrame: 20085
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Power_2_grip_15
+      takeName: Take 001
+      firstFrame: 20100
+      lastFrame: 20185
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Power_2_grip_30
+      takeName: Take 001
+      firstFrame: 20200
+      lastFrame: 20300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Power_2_grip_45
+      takeName: Take 001
+      firstFrame: 20300
+      lastFrame: 20385
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Power_2_Wrist_15
+      takeName: Take 001
+      firstFrame: 20500
+      lastFrame: 20585
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Power_2_Wrist_30
+      takeName: Take 001
+      firstFrame: 20600
+      lastFrame: 20685
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Power_2_Wrist_40
+      takeName: Take 001
+      firstFrame: 20700
+      lastFrame: 20785
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Precision_2_grip_15
+      takeName: Take 001
+      firstFrame: 16100.001
+      lastFrame: 16184
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Precision_2_grip_30
+      takeName: Take 001
+      firstFrame: 16200
+      lastFrame: 16299.999
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Precision_2_grip_45
+      takeName: Take 001
+      firstFrame: 16299.999
+      lastFrame: 16384
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Precision_2_Wrist_15
+      takeName: Take 001
+      firstFrame: 16600
+      lastFrame: 16684
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Precision_2_Wrist_30
+      takeName: Take 001
+      firstFrame: 16700
+      lastFrame: 16784
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Precision_2_Wrist_45
+      takeName: Take 001
+      firstFrame: 11000
+      lastFrame: 11082
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Precision_2
+      takeName: Take 001
+      firstFrame: 15999.999
+      lastFrame: 16084.001
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Precision_Corr_1
+      takeName: Take 001
+      firstFrame: 1670
+      lastFrame: 1768
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Power_Corr_1
+      takeName: Take 001
+      firstFrame: 1798
+      lastFrame: 1899
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Power_Corr_2
+      takeName: Take 001
+      firstFrame: 2747
+      lastFrame: 2849
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Power_Corr_3
+      takeName: Take 001
+      firstFrame: 3953
+      lastFrame: 4038.0002
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Power_Corr_4
+      takeName: Take 001
+      firstFrame: 4061
+      lastFrame: 4153
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Power_Corr_5
+      takeName: Take 001
+      firstFrame: 5588
+      lastFrame: 5696
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Precision_Corr_2
+      takeName: Take 001
+      firstFrame: 2375
+      lastFrame: 2468
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Precision_Corr_3
+      takeName: Take 001
+      firstFrame: 4605
+      lastFrame: 4700
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Precision_Corr_4
+      takeName: Take 001
+      firstFrame: 4741
+      lastFrame: 4841
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Precision_Corr_5
+      takeName: Take 001
+      firstFrame: 5836
+      lastFrame: 5935
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Start
+      takeName: Take 001
+      firstFrame: 11000
+      lastFrame: 11000
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Power_3
+      takeName: Take 001
+      firstFrame: 12000
+      lastFrame: 12085
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Power_3_grip_15
+      takeName: Take 001
+      firstFrame: 12100
+      lastFrame: 12185
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Power_3_grip_30
+      takeName: Take 001
+      firstFrame: 12200
+      lastFrame: 12285
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Power_3_grip_45
+      takeName: Take 001
+      firstFrame: 12300
+      lastFrame: 12385
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Power_3_Wrist_15
+      takeName: Take 001
+      firstFrame: 12500
+      lastFrame: 12585
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Power_3_Wrist_30
+      takeName: Take 001
+      firstFrame: 12600
+      lastFrame: 12685
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Power_3_Wrist_45
+      takeName: Take 001
+      firstFrame: 12700
+      lastFrame: 12785
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Power_4
+      takeName: Take 001
+      firstFrame: 21000
+      lastFrame: 21092
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Power_4_grip_15
+      takeName: Take 001
+      firstFrame: 21100
+      lastFrame: 21192
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Power_4_grip_30
+      takeName: Take 001
+      firstFrame: 21200
+      lastFrame: 21292
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Power_4_grip_45
+      takeName: Take 001
+      firstFrame: 21300
+      lastFrame: 21392
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Power_4_Wrist_15
+      takeName: Take 001
+      firstFrame: 21500
+      lastFrame: 21592
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Power_4_Wrist_30
+      takeName: Take 001
+      firstFrame: 21600
+      lastFrame: 21692
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Power_4_Wrist_45
+      takeName: Take 001
+      firstFrame: 21700
+      lastFrame: 21792
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Power_5
+      takeName: Take 001
+      firstFrame: 14000
+      lastFrame: 14096
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Power_5_grip_15
+      takeName: Take 001
+      firstFrame: 14100
+      lastFrame: 14196
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Power_5_grip_30
+      takeName: Take 001
+      firstFrame: 14200
+      lastFrame: 14296
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Power_5_grip_45
+      takeName: Take 001
+      firstFrame: 14300
+      lastFrame: 14396
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Power_5_Wrist_15
+      takeName: Take 001
+      firstFrame: 14500
+      lastFrame: 14596
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Power_5_Wrist_30
+      takeName: Take 001
+      firstFrame: 14600
+      lastFrame: 14696
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Power_5_Wrist_45
+      takeName: Take 001
+      firstFrame: 14700
+      lastFrame: 14796
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Precision_3
+      takeName: Take 001
+      firstFrame: 17000
+      lastFrame: 17080
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Precision_3_grip_15
+      takeName: Take 001
+      firstFrame: 17100
+      lastFrame: 17180
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Precision_3_grip_30
+      takeName: Take 001
+      firstFrame: 17200
+      lastFrame: 17280
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Precision_3_grip_45
+      takeName: Take 001
+      firstFrame: 17300
+      lastFrame: 17380
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Precision_3_Wrist_15
+      takeName: Take 001
+      firstFrame: 17500
+      lastFrame: 17580
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Precision_3_Wrist_30
+      takeName: Take 001
+      firstFrame: 17600
+      lastFrame: 17680
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Precision_3_Wrist_45
+      takeName: Take 001
+      firstFrame: 17700
+      lastFrame: 17780
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Precision_4
+      takeName: Take 001
+      firstFrame: 18000
+      lastFrame: 18099
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Precision_4_grip_15
+      takeName: Take 001
+      firstFrame: 18100
+      lastFrame: 18199
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Precision_4_grip_30
+      takeName: Take 001
+      firstFrame: 18200
+      lastFrame: 18299
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Precision_4_grip_45
+      takeName: Take 001
+      firstFrame: 18300
+      lastFrame: 18399
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Precision_4_Wrist_15
+      takeName: Take 001
+      firstFrame: 18500
+      lastFrame: 18599
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Precision_4_Wrist_30
+      takeName: Take 001
+      firstFrame: 18600
+      lastFrame: 18699
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Precision_4_Wrist_45
+      takeName: Take 001
+      firstFrame: 18700
+      lastFrame: 18799
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Precision_5
+      takeName: Take 001
+      firstFrame: 19000
+      lastFrame: 19092
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Precision_5_grip_15
+      takeName: Take 001
+      firstFrame: 19100
+      lastFrame: 19192
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Precision_5_grip_30
+      takeName: Take 001
+      firstFrame: 19200
+      lastFrame: 19292
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Precision_5_grip_45
+      takeName: Take 001
+      firstFrame: 19300
+      lastFrame: 19392
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

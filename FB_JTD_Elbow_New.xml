@@ -1,0 +1,95 @@
+<QTM_Skeleton_File>
+    <Skeleton Name="FB">
+        <Segments>
+            <Segment Name="RightForeArm">
+                <Transform>
+                    <Position X="0" Y="-0.000000" Z="0.000000" />
+                    <Rotation X="0.000127" Y="0.003952" Z="0.050850" W="0.998698" />
+                </Transform>
+                <DefaultTransform>
+                    <Position X="266.536355" Y="-0.000000" Z="0.000000" />
+                    <Rotation X="0.000127" Y="0.003952" Z="0.050850" W="0.998698" />
+                </DefaultTransform>
+                <DegreesOfFreedom>
+                    <RotationX/>
+                    <RotationY/>
+                    <RotationZ/>
+                    <TranslationX/>
+                    <TranslationY/>
+                    <TranslationZ/>
+                </DegreesOfFreedom>
+                <Markers>
+                    <Marker Name="RElbowOut">
+                        <Position X="-1.134225" Y="-21.471928" Z="6.844378"/>
+                        <Weight>0.500000</Weight>
+                    </Marker>
+                    <Marker Name="RWristIn">
+                        <Position X="259.753501" Y="35.757808" Z="0.000000"/>
+                        <Weight>2.000000</Weight>
+                    </Marker>
+                    <Marker Name="RWristOut">
+                        <Position X="254.049125" Y="-35.757808" Z="0.000000"/>
+                        <Weight>2.000000</Weight>
+                    </Marker>
+                </Markers>
+                <RigidBodies />
+                <Segment Name="RightForeArmRoll">
+                    <Transform>
+                        <Position X="127.813449" Y="0.000000" Z="-0.000000" />
+                        <Rotation X="0.000000" Y="0.000000" Z="0.000000" W="1.000000" />
+                    </Transform>
+                    <DefaultTransform>
+                        <Position X="127.813449" Y="0.000000" Z="-0.000000" />
+                        <Rotation X="0.000000" Y="0.000000" Z="0.000000" W="1.000000" />
+                    </DefaultTransform>
+                    <DegreesOfFreedom />
+                    <Endpoint/>
+                    <Markers>
+                        <Marker Name="RForearmRoll">
+                        <Position X="0.644354" Y="3.513308" Z="30.018148"/>
+                        <Weight>1.000000</Weight>
+                        </Marker>
+                    </Markers>
+                    <RigidBodies/>
+                    <Segment Name="RightHand">
+                        <Transform>
+                            <Position X="127.813449" Y="-0.000000" Z="0.000000" />
+                            <Rotation X="-0.002534" Y="-0.021096" Z="0.036474" W="0.999109" />
+                        </Transform>
+                        <DefaultTransform>
+                            <Position X="127.813449" Y="-0.000000" Z="0.000000" />
+                            <Rotation X="-0.002534" Y="-0.021096" Z="0.036474" W="0.999109" />
+                        </DefaultTransform>
+                        <DegreesOfFreedom>
+                            <RotationX>
+                                <Constraint LowerBound="-1.570796" UpperBound="1.570796" />
+                            </RotationX>
+                            <RotationY>
+                                <Constraint LowerBound="-2.617994" UpperBound="2.617994" />
+                            </RotationY>
+                            <RotationZ>
+                                <Constraint LowerBound="-1.570796" UpperBound="1.570796" />
+                            </RotationZ>
+                        </DegreesOfFreedom>
+                        <Endpoint X="79.414439" Y="-12.491887" Z="0.000000" />
+                        <Markers>
+                            <Marker Name="RWristOut">
+                                <Position X="-5.576956" Y="-35.454280" Z="0.000000" />
+                                <Weight>1.000000</Weight>
+                            </Marker>
+                            <Marker Name="RWristIn">
+                                <Position X="5.396820" Y="35.463081" Z="0.000000"/>
+                                <Weight>1.000000</Weight>
+                            </Marker>
+                            <Marker Name="RHandOut">
+                                <Position X="74.083593" Y="-35.463081" Z="0.000000"/>
+                                <Weight>1.000000</Weight>
+                            </Marker>
+                        </Markers>
+                        <RigidBodies />
+                    </Segment>
+                </Segment>
+            </Segment>
+        </Segments>
+    </Skeleton>
+</QTM_Skeleton_File>
